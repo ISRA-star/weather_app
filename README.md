@@ -1,17 +1,30 @@
-# weather_app
+ 🌤️ Weather App
 
-A new Flutter project.
+A Flutter Weather App with Firebase Authentication built with Flutter & Dart.
 
-## Getting Started
+ ✨ Features
+- 🔐 Firebase Login & Signup
+- 🌡️ Real-time Weather Data
+- 🔍 City Search
+- 📱 Beautiful UI Design
 
-This project is a starting point for a Flutter application.
+ 🛠️ Technologies Used
+- Flutter & Dart
+- Firebase Authentication
+- Weather API
+- Android Studio
 
-A few resources to get you started if this is your first Flutter project:
+📱 Screenshots
+Coming Soon...
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 How to Run
+```bash
+flutter pub get
+flutter run
+flutter run -d chrome
+flutter run -d emulator
+```
+ 👤 Developer
+*ISRA-star*
+- GitHub: https://github.com/ISRA-star
+- Project Link: https://github.com/ISRA-star/weather_app
